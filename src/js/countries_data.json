@@ -1,0 +1,2692 @@
+{
+    "countries_data": [
+        {
+            "Region":"Middle East",
+            "Country_State_Province":"Afghanistan",
+            "TotalCurrentStudentEnrollment":"485",
+            "CurrentPercentFemaleEnrollment":"0.121649485",
+            "TotalStudentsSinceInception":"6127",
+            "CiscoCertificationsSinceInception":"1638",
+            "geometry" : {
+                "coordinates": [67.709953, 33.93911], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe North",
+            "Country_State_Province":"Åland Islands",
+            "TotalCurrentStudentEnrollment":"14",
+            "CurrentPercentFemaleEnrollment":"0.071428571",
+            "TotalStudentsSinceInception":"17",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [19.91561, 60.178525], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe Central",
+            "Country_State_Province":"Albania",
+            "TotalCurrentStudentEnrollment":"775",
+            "CurrentPercentFemaleEnrollment":"0.212903226",
+            "TotalStudentsSinceInception":"1522",
+            "CiscoCertificationsSinceInception":"325",
+            "geometry" : {
+                "coordinates": [20.168331, 41.153332], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Algeria",
+            "TotalCurrentStudentEnrollment":"4082",
+            "CurrentPercentFemaleEnrollment":"0.269965703",
+            "TotalStudentsSinceInception":"22941",
+            "CiscoCertificationsSinceInception":"6484",
+            "geometry" : {
+                "coordinates": [1.659626, 28.033886], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"United States & Canada",
+            "Country_State_Province":"American Samoa",
+            "TotalCurrentStudentEnrollment":"20",
+            "CurrentPercentFemaleEnrollment":"0.1",
+            "TotalStudentsSinceInception":"349",
+            "CiscoCertificationsSinceInception":"13",
+            "geometry" : {
+                "coordinates": [-170.132217, -14.270972], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe South",
+            "Country_State_Province":"Andorra",
+            "TotalCurrentStudentEnrollment":"38",
+            "CurrentPercentFemaleEnrollment":"0.078947368",
+            "TotalStudentsSinceInception":"279",
+            "CiscoCertificationsSinceInception":"127",
+            "geometry" : {
+                "coordinates": [1.601554, 42.546245], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Angola",
+            "TotalCurrentStudentEnrollment":"1693",
+            "CurrentPercentFemaleEnrollment":"0.118724158",
+            "TotalStudentsSinceInception":"6989",
+            "CiscoCertificationsSinceInception":"1081",
+            "geometry" : {
+                "coordinates": [17.873887, -11.202692], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Anguilla",
+            "TotalCurrentStudentEnrollment":"3",
+            "CurrentPercentFemaleEnrollment":"0",
+            "TotalStudentsSinceInception":"6",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [-63.068615, 18.220554], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"Antarctica",
+            "TotalCurrentStudentEnrollment":"9",
+            "CurrentPercentFemaleEnrollment":"0",
+            "TotalStudentsSinceInception":"10",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [-0.071389, -75.250973], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Antigua and Barbuda",
+            "TotalCurrentStudentEnrollment":"56",
+            "CurrentPercentFemaleEnrollment":"0.410714286",
+            "TotalStudentsSinceInception":"88",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [-61.796428, 17.060816], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Argentina",
+            "TotalCurrentStudentEnrollment":"5821",
+            "CurrentPercentFemaleEnrollment":"0.094313692",
+            "TotalStudentsSinceInception":"54313",
+            "CiscoCertificationsSinceInception":"14390",
+            "geometry" : {
+                "coordinates": [-63.616672, -38.416097], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe Central",
+            "Country_State_Province":"Armenia",
+            "TotalCurrentStudentEnrollment":"1017",
+            "CurrentPercentFemaleEnrollment":"0.221238938",
+            "TotalStudentsSinceInception":"3160",
+            "CiscoCertificationsSinceInception":"456",
+            "geometry" : {
+                "coordinates": [45.038189, 40.069099], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Aruba",
+            "TotalCurrentStudentEnrollment":"12",
+            "CurrentPercentFemaleEnrollment":"0",
+            "TotalStudentsSinceInception":"12",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [-69.968338, 12.52111], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"Australia",
+            "TotalCurrentStudentEnrollment":"17369",
+            "CurrentPercentFemaleEnrollment":"0.114859808",
+            "TotalStudentsSinceInception":"154556",
+            "CiscoCertificationsSinceInception":"35673",
+            "geometry" : {
+                "coordinates": [133.775136, -25.274398], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe Central",
+            "Country_State_Province":"Austria",
+            "TotalCurrentStudentEnrollment":"5121",
+            "CurrentPercentFemaleEnrollment":"0.136692052",
+            "TotalStudentsSinceInception":"55144",
+            "CiscoCertificationsSinceInception":"10823",
+            "geometry" : {
+                "coordinates": [14.550072, 47.516231], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe Central",
+            "Country_State_Province":"Azerbaijan",
+            "TotalCurrentStudentEnrollment":"807",
+            "CurrentPercentFemaleEnrollment":"0.095415118",
+            "TotalStudentsSinceInception":"3159",
+            "CiscoCertificationsSinceInception":"663",
+            "geometry" : {
+                "coordinates": [47.576927, 40.143105], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Bahamas",
+            "TotalCurrentStudentEnrollment":"36",
+            "CurrentPercentFemaleEnrollment":"0.055555556",
+            "TotalStudentsSinceInception":"133",
+            "CiscoCertificationsSinceInception":"50",
+            "geometry" : {
+                "coordinates": [-77.39628, 25.03428], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Middle East",
+            "Country_State_Province":"Bahrain",
+            "TotalCurrentStudentEnrollment":"557",
+            "CurrentPercentFemaleEnrollment":"0.245960503",
+            "TotalStudentsSinceInception":"3880",
+            "CiscoCertificationsSinceInception":"775",
+            "geometry" : {
+                "coordinates": [50.637772, 25.930414], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"Bangladesh",
+            "TotalCurrentStudentEnrollment":"4245",
+            "CurrentPercentFemaleEnrollment":"0.163486455",
+            "TotalStudentsSinceInception":"24569",
+            "CiscoCertificationsSinceInception":"7730",
+            "geometry" : {
+                "coordinates": [90.356331, 23.684994], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Barbados",
+            "TotalCurrentStudentEnrollment":"22",
+            "CurrentPercentFemaleEnrollment":"0.090909091",
+            "TotalStudentsSinceInception":"27",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [-59.543198, 13.193887], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe Central",
+            "Country_State_Province":"Belarus",
+            "TotalCurrentStudentEnrollment":"2935",
+            "CurrentPercentFemaleEnrollment":"0.176149915",
+            "TotalStudentsSinceInception":"15590",
+            "CiscoCertificationsSinceInception":"2318",
+            "geometry" : {
+                "coordinates": [27.953389, 53.709807], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe North",
+            "Country_State_Province":"Belgium",
+            "TotalCurrentStudentEnrollment":"6435",
+            "CurrentPercentFemaleEnrollment":"0.064335664",
+            "TotalStudentsSinceInception":"46708",
+            "CiscoCertificationsSinceInception":"11705",
+            "geometry" : {
+                "coordinates": [4.469936, 50.503887], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Belize",
+            "TotalCurrentStudentEnrollment":"15",
+            "CurrentPercentFemaleEnrollment":"0",
+            "TotalStudentsSinceInception":"127",
+            "CiscoCertificationsSinceInception":"49",
+            "geometry" : {
+                "coordinates": [-88.49765, 17.189877], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Benin",
+            "TotalCurrentStudentEnrollment":"190",
+            "CurrentPercentFemaleEnrollment":"0.084210526",
+            "TotalStudentsSinceInception":"885",
+            "CiscoCertificationsSinceInception":"121",
+            "geometry" : {
+                "coordinates": [2.315834, 9.30769], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Bermuda",
+            "TotalCurrentStudentEnrollment":"7",
+            "CurrentPercentFemaleEnrollment":"0",
+            "TotalStudentsSinceInception":"57",
+            "CiscoCertificationsSinceInception":"13",
+            "geometry" : {
+                "coordinates": [-64.75737, 32.321384], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"Bhutan",
+            "TotalCurrentStudentEnrollment":"76",
+            "CurrentPercentFemaleEnrollment":"0.263157895",
+            "TotalStudentsSinceInception":"719",
+            "CiscoCertificationsSinceInception":"313",
+            "geometry" : {
+                "coordinates": [90.433601, 27.514162], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Bolivia",
+            "TotalCurrentStudentEnrollment":"2659",
+            "CurrentPercentFemaleEnrollment":"0.217374953",
+            "TotalStudentsSinceInception":"12078",
+            "CiscoCertificationsSinceInception":"3385",
+            "geometry" : {
+                "coordinates": [-63.588653, -16.290154], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Bonaire, Sint Eustatius and Saba",
+            "TotalCurrentStudentEnrollment":"11",
+            "CurrentPercentFemaleEnrollment":"0.090909091",
+            "TotalStudentsSinceInception":"11",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [-68.238534, 12.178361], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe Central",
+            "Country_State_Province":"Bosnia and Herzegovina",
+            "TotalCurrentStudentEnrollment":"420",
+            "CurrentPercentFemaleEnrollment":"0.171428571",
+            "TotalStudentsSinceInception":"4403",
+            "CiscoCertificationsSinceInception":"1831",
+            "geometry" : {
+                "coordinates": [17.679076, 43.915886], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Botswana",
+            "TotalCurrentStudentEnrollment":"534",
+            "CurrentPercentFemaleEnrollment":"0.235955056",
+            "TotalStudentsSinceInception":"1703",
+            "CiscoCertificationsSinceInception":"663",
+            "geometry" : {
+                "coordinates": [24.684866, -22.328474], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Brazil",
+            "TotalCurrentStudentEnrollment":"37618",
+            "CurrentPercentFemaleEnrollment":"0.148811739",
+            "TotalStudentsSinceInception":"210887",
+            "CiscoCertificationsSinceInception":"27247",
+            "geometry" : {
+                "coordinates": [-51.92528, -14.235004], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Virgin Islands (British)",
+            "TotalCurrentStudentEnrollment":"5",
+            "CurrentPercentFemaleEnrollment":"0.2",
+            "TotalStudentsSinceInception":"5",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [-64.639968, 18.420695], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"Brunei Darussalam",
+            "TotalCurrentStudentEnrollment":"42",
+            "CurrentPercentFemaleEnrollment":"0.452380952",
+            "TotalStudentsSinceInception":"237",
+            "CiscoCertificationsSinceInception":"65",
+            "geometry" : {
+                "coordinates": [114.727669, 4.535277], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe Central",
+            "Country_State_Province":"Bulgaria",
+            "TotalCurrentStudentEnrollment":"2500",
+            "CurrentPercentFemaleEnrollment":"0.1656",
+            "TotalStudentsSinceInception":"25215",
+            "CiscoCertificationsSinceInception":"7258",
+            "geometry" : {
+                "coordinates": [25.48583, 42.733883], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Burkina Faso",
+            "TotalCurrentStudentEnrollment":"165",
+            "CurrentPercentFemaleEnrollment":"0.133333333",
+            "TotalStudentsSinceInception":"717",
+            "CiscoCertificationsSinceInception":"156",
+            "geometry" : {
+                "coordinates": [-1.561593, 12.238333], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Burundi",
+            "TotalCurrentStudentEnrollment":"25",
+            "CurrentPercentFemaleEnrollment":"0.08",
+            "TotalStudentsSinceInception":"28",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [29.918886, -3.373056], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"Cambodia",
+            "TotalCurrentStudentEnrollment":"2621",
+            "CurrentPercentFemaleEnrollment":"0.289584128",
+            "TotalStudentsSinceInception":"22310",
+            "CiscoCertificationsSinceInception":"2577",
+            "geometry" : {
+                "coordinates": [104.990963, 12.565679], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Cameroon",
+            "TotalCurrentStudentEnrollment":"1738",
+            "CurrentPercentFemaleEnrollment":"0.155926352",
+            "TotalStudentsSinceInception":"7438",
+            "CiscoCertificationsSinceInception":"2177",
+            "geometry" : {
+                "coordinates": [12.354722, 7.369722], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Cape Verde",
+            "TotalCurrentStudentEnrollment":"79",
+            "CurrentPercentFemaleEnrollment":"0.126582278",
+            "TotalStudentsSinceInception":"1022",
+            "CiscoCertificationsSinceInception":"61",
+            "geometry" : {
+                "coordinates": [-24.013197, 16.002082], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Cayman Islands",
+            "TotalCurrentStudentEnrollment":"6",
+            "CurrentPercentFemaleEnrollment":"0.166666667",
+            "TotalStudentsSinceInception":"35",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [-80.566956, 19.513469], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Central African Republic",
+            "TotalCurrentStudentEnrollment":"15",
+            "CurrentPercentFemaleEnrollment":"0.066666667",
+            "TotalStudentsSinceInception":"110",
+            "CiscoCertificationsSinceInception":"2",
+            "geometry" : {
+                "coordinates": [20.939444, 6.611111], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Chad",
+            "TotalCurrentStudentEnrollment":"47",
+            "CurrentPercentFemaleEnrollment":"0.021276596",
+            "TotalStudentsSinceInception":"145",
+            "CiscoCertificationsSinceInception":"2",
+            "geometry" : {
+                "coordinates": [18.732207, 15.454166], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Chile",
+            "TotalCurrentStudentEnrollment":"19371",
+            "CurrentPercentFemaleEnrollment":"0.090134737",
+            "TotalStudentsSinceInception":"110465",
+            "CiscoCertificationsSinceInception":"18174",
+            "geometry" : {
+                "coordinates": [-71.542969, -35.675147], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Greater China",
+            "Country_State_Province":"China",
+            "TotalCurrentStudentEnrollment":"65451",
+            "CurrentPercentFemaleEnrollment":"0.263418435",
+            "TotalStudentsSinceInception":"363154",
+            "CiscoCertificationsSinceInception":"114599",
+            "geometry" : {
+                "coordinates": [104.195397, 35.86166], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"Cocos (Keeling) Islands",
+            "TotalCurrentStudentEnrollment":"1",
+            "CurrentPercentFemaleEnrollment":"0",
+            "TotalStudentsSinceInception":"1",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [96.870956, -12.164165], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Colombia",
+            "TotalCurrentStudentEnrollment":"20647",
+            "CurrentPercentFemaleEnrollment":"0.172325277",
+            "TotalStudentsSinceInception":"130882",
+            "CiscoCertificationsSinceInception":"24897",
+            "geometry" : {
+                "coordinates": [-74.297333, 4.570868], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Comoros",
+            "TotalCurrentStudentEnrollment":"12",
+            "CurrentPercentFemaleEnrollment":"0",
+            "TotalStudentsSinceInception":"16",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [43.872219, -11.875001], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Congo (Democratic Republic of the)",
+            "TotalCurrentStudentEnrollment":"1731",
+            "CurrentPercentFemaleEnrollment":"0.093009821",
+            "TotalStudentsSinceInception":"7231",
+            "CiscoCertificationsSinceInception":"1082",
+            "geometry" : {
+                "coordinates": [21.758664, -4.038333], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Congo (Republic of the)",
+            "TotalCurrentStudentEnrollment":"233",
+            "CurrentPercentFemaleEnrollment":"0.094420601",
+            "TotalStudentsSinceInception":"1445",
+            "CiscoCertificationsSinceInception":"263",
+            "geometry" : {
+                "coordinates": [15.827659, -0.228021], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"Cook Islands",
+            "TotalCurrentStudentEnrollment":"1",
+            "CurrentPercentFemaleEnrollment":"0",
+            "TotalStudentsSinceInception":"1",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [-159.777671, -21.236736], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Costa Rica",
+            "TotalCurrentStudentEnrollment":"13687",
+            "CurrentPercentFemaleEnrollment":"0.239351209",
+            "TotalStudentsSinceInception":"59458",
+            "CiscoCertificationsSinceInception":"18845",
+            "geometry" : {
+                "coordinates": [-83.753428, 9.748917], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Côte d'Ivoire",
+            "TotalCurrentStudentEnrollment":"1724",
+            "CurrentPercentFemaleEnrollment":"0.13863109",
+            "TotalStudentsSinceInception":"3771",
+            "CiscoCertificationsSinceInception":"654",
+            "geometry" : {
+                "coordinates": [-5.54708, 7.539989], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe Central",
+            "Country_State_Province":"Croatia",
+            "TotalCurrentStudentEnrollment":"931",
+            "CurrentPercentFemaleEnrollment":"0.068743287",
+            "TotalStudentsSinceInception":"9205",
+            "CiscoCertificationsSinceInception":"5963",
+            "geometry" : {
+                "coordinates": [15.2, 45.1], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Curaçao",
+            "TotalCurrentStudentEnrollment":"49",
+            "CurrentPercentFemaleEnrollment":"0.285714286",
+            "TotalStudentsSinceInception":"81",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [-68.990020, 12.169570], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe South",
+            "Country_State_Province":"Cyprus",
+            "TotalCurrentStudentEnrollment":"757",
+            "CurrentPercentFemaleEnrollment":"0.093791281",
+            "TotalStudentsSinceInception":"4608",
+            "CiscoCertificationsSinceInception":"1456",
+            "geometry" : {
+                "coordinates": [33.429859, 35.126413], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe Central",
+            "Country_State_Province":"Czech Republic",
+            "TotalCurrentStudentEnrollment":"7261",
+            "CurrentPercentFemaleEnrollment":"0.065693431",
+            "TotalStudentsSinceInception":"42331",
+            "CiscoCertificationsSinceInception":"8834",
+            "geometry" : {
+                "coordinates": [15.472962, 49.817492], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe North",
+            "Country_State_Province":"Denmark",
+            "TotalCurrentStudentEnrollment":"3816",
+            "CurrentPercentFemaleEnrollment":"0.049528302",
+            "TotalStudentsSinceInception":"29424",
+            "CiscoCertificationsSinceInception":"7946",
+            "geometry" : {
+                "coordinates": [9.501785, 56.26392], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Djibouti",
+            "TotalCurrentStudentEnrollment":"17",
+            "CurrentPercentFemaleEnrollment":"0.058823529",
+            "TotalStudentsSinceInception":"200",
+            "CiscoCertificationsSinceInception":"19",
+            "geometry" : {
+                "coordinates": [42.590275, 11.825138], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Dominica",
+            "TotalCurrentStudentEnrollment":"16",
+            "CurrentPercentFemaleEnrollment":"0.1875",
+            "TotalStudentsSinceInception":"18",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [-61.370976, 15.414999], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Dominican Republic",
+            "TotalCurrentStudentEnrollment":"4375",
+            "CurrentPercentFemaleEnrollment":"0.130057143",
+            "TotalStudentsSinceInception":"25480",
+            "CiscoCertificationsSinceInception":"5910",
+            "geometry" : {
+                "coordinates": [-70.162651, 18.735693], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"East Timor",
+            "TotalCurrentStudentEnrollment":"6",
+            "CurrentPercentFemaleEnrollment":"0",
+            "TotalStudentsSinceInception":"6",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [125.727539, -8.874217], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Ecuador",
+            "TotalCurrentStudentEnrollment":"10030",
+            "CurrentPercentFemaleEnrollment":"0.245363908",
+            "TotalStudentsSinceInception":"39206",
+            "CiscoCertificationsSinceInception":"11287",
+            "geometry" : {
+                "coordinates": [-78.183406, -1.831239], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Egypt",
+            "TotalCurrentStudentEnrollment":"9679",
+            "CurrentPercentFemaleEnrollment":"0.255191652",
+            "TotalStudentsSinceInception":"82549",
+            "CiscoCertificationsSinceInception":"19716",
+            "geometry" : {
+                "coordinates": [30.802498, 26.820553], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"El Salvador",
+            "TotalCurrentStudentEnrollment":"3696",
+            "CurrentPercentFemaleEnrollment":"0.246482684",
+            "TotalStudentsSinceInception":"22325",
+            "CiscoCertificationsSinceInception":"3634",
+            "geometry" : {
+                "coordinates": [-88.89653, 13.794185], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Equatorial Guinea",
+            "TotalCurrentStudentEnrollment":"74",
+            "CurrentPercentFemaleEnrollment":"0.094594595",
+            "TotalStudentsSinceInception":"222",
+            "CiscoCertificationsSinceInception":"38",
+            "geometry" : {
+                "coordinates": [10.267895, 1.650801], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Eritrea",
+            "TotalCurrentStudentEnrollment":"18",
+            "CurrentPercentFemaleEnrollment":"0.055555556",
+            "TotalStudentsSinceInception":"398",
+            "CiscoCertificationsSinceInception":"173",
+            "geometry" : {
+                "coordinates": [39.782334, 15.179384], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe North",
+            "Country_State_Province":"Estonia",
+            "TotalCurrentStudentEnrollment":"757",
+            "CurrentPercentFemaleEnrollment":"0.173051519",
+            "TotalStudentsSinceInception":"7062",
+            "CiscoCertificationsSinceInception":"1367",
+            "geometry" : {
+                "coordinates": [25.013607, 58.595272], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Ethiopia",
+            "TotalCurrentStudentEnrollment":"3640",
+            "CurrentPercentFemaleEnrollment":"0.230494505",
+            "TotalStudentsSinceInception":"16026",
+            "CiscoCertificationsSinceInception":"5098",
+            "geometry" : {
+                "coordinates": [40.489673, 9.145], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe North",
+            "Country_State_Province":"Faroe Islands",
+            "TotalCurrentStudentEnrollment":"1",
+            "CurrentPercentFemaleEnrollment":"0",
+            "TotalStudentsSinceInception":"2",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [-6.911806, 61.892635], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"Fiji",
+            "TotalCurrentStudentEnrollment":"515",
+            "CurrentPercentFemaleEnrollment":"0.174757282",
+            "TotalStudentsSinceInception":"3995",
+            "CiscoCertificationsSinceInception":"1062",
+            "geometry" : {
+                "coordinates": [179.414413, -16.578193], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe North",
+            "Country_State_Province":"Finland",
+            "TotalCurrentStudentEnrollment":"2951",
+            "CurrentPercentFemaleEnrollment":"0.096238563",
+            "TotalStudentsSinceInception":"37251",
+            "CiscoCertificationsSinceInception":"10581",
+            "geometry" : {
+                "coordinates": [25.748151, 61.92411], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"France Theatre",
+            "Country_State_Province":"France",
+            "TotalCurrentStudentEnrollment":"23781",
+            "CurrentPercentFemaleEnrollment":"0.077877297",
+            "TotalStudentsSinceInception":"150773",
+            "CiscoCertificationsSinceInception":"19860",
+            "geometry" : {
+                "coordinates": [2.213749, 46.227638], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"France Theatre",
+            "Country_State_Province":"French Guiana",
+            "TotalCurrentStudentEnrollment":"48",
+            "CurrentPercentFemaleEnrollment":"0.145833333",
+            "TotalStudentsSinceInception":"190",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [-53.125782, 3.933889], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"France Theatre",
+            "Country_State_Province":"French Polynesia",
+            "TotalCurrentStudentEnrollment":"39",
+            "CurrentPercentFemaleEnrollment":"0.025641026",
+            "TotalStudentsSinceInception":"317",
+            "CiscoCertificationsSinceInception":"3",
+            "geometry" : {
+                "coordinates": [-149.406843, -17.679742], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Gabon",
+            "TotalCurrentStudentEnrollment":"405",
+            "CurrentPercentFemaleEnrollment":"0.286419753",
+            "TotalStudentsSinceInception":"966",
+            "CiscoCertificationsSinceInception":"86",
+            "geometry" : {
+                "coordinates": [11.609444, -0.803689], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Gambia",
+            "TotalCurrentStudentEnrollment":"324",
+            "CurrentPercentFemaleEnrollment":"0.172839506",
+            "TotalStudentsSinceInception":"1935",
+            "CiscoCertificationsSinceInception":"1240",
+            "geometry" : {
+                "coordinates": [-15.310139, 13.443182], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe Central",
+            "Country_State_Province":"Georgia",
+            "TotalCurrentStudentEnrollment":"742",
+            "CurrentPercentFemaleEnrollment":"0.079514825",
+            "TotalStudentsSinceInception":"4376",
+            "CiscoCertificationsSinceInception":"1231",
+            "geometry" : {
+                "coordinates": [43.356892, 42.315407], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Germany",
+            "Country_State_Province":"Germany",
+            "TotalCurrentStudentEnrollment":"27069",
+            "CurrentPercentFemaleEnrollment":"0.07632347",
+            "TotalStudentsSinceInception":"216306",
+            "CiscoCertificationsSinceInception":"28061",
+            "geometry" : {
+                "coordinates": [10.451526, 51.165691], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Ghana",
+            "TotalCurrentStudentEnrollment":"852",
+            "CurrentPercentFemaleEnrollment":"0.093896714",
+            "TotalStudentsSinceInception":"4261",
+            "CiscoCertificationsSinceInception":"1553",
+            "geometry" : {
+                "coordinates": [-1.023194, 7.946527], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"UKI",
+            "Country_State_Province":"Gibraltar",
+            "TotalCurrentStudentEnrollment":"8",
+            "CurrentPercentFemaleEnrollment":"0.125",
+            "TotalStudentsSinceInception":"8",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [-5.345374, 36.137741], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe South",
+            "Country_State_Province":"Greece",
+            "TotalCurrentStudentEnrollment":"1425",
+            "CurrentPercentFemaleEnrollment":"0.087719298",
+            "TotalStudentsSinceInception":"8875",
+            "CiscoCertificationsSinceInception":"4141",
+            "geometry" : {
+                "coordinates": [21.824312, 39.074208], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe North",
+            "Country_State_Province":"Greenland",
+            "TotalCurrentStudentEnrollment":"17",
+            "CurrentPercentFemaleEnrollment":"0",
+            "TotalStudentsSinceInception":"28",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [-42.604303, 71.706936], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Grenada",
+            "TotalCurrentStudentEnrollment":"37",
+            "CurrentPercentFemaleEnrollment":"0.243243243",
+            "TotalStudentsSinceInception":"182",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [-61.604171, 12.262776], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"France Theatre",
+            "Country_State_Province":"Guadeloupe",
+            "TotalCurrentStudentEnrollment":"155",
+            "CurrentPercentFemaleEnrollment":"0.038709677",
+            "TotalStudentsSinceInception":"239",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [-62.067641, 16.995971], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"United States & Canada",
+            "Country_State_Province":"Guam",
+            "TotalCurrentStudentEnrollment":"197",
+            "CurrentPercentFemaleEnrollment":"0.16751269",
+            "TotalStudentsSinceInception":"2336",
+            "CiscoCertificationsSinceInception":"574",
+            "geometry" : {
+                "coordinates": [144.793731, 13.444304], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Guatemala",
+            "TotalCurrentStudentEnrollment":"4582",
+            "CurrentPercentFemaleEnrollment":"0.160628546",
+            "TotalStudentsSinceInception":"14920",
+            "CiscoCertificationsSinceInception":"3059",
+            "geometry" : {
+                "coordinates": [-90.230759, 15.783471], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"UKI",
+            "Country_State_Province":"Guernsey",
+            "TotalCurrentStudentEnrollment":"6",
+            "CurrentPercentFemaleEnrollment":"0",
+            "TotalStudentsSinceInception":"8",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [-2.585278, 49.465691], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Guinea",
+            "TotalCurrentStudentEnrollment":"82",
+            "CurrentPercentFemaleEnrollment":"0.024390244",
+            "TotalStudentsSinceInception":"365",
+            "CiscoCertificationsSinceInception":"37",
+            "geometry" : {
+                "coordinates": [-9.696645, 9.945587], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Guinea-Bissau",
+            "TotalCurrentStudentEnrollment":"3",
+            "CurrentPercentFemaleEnrollment":"0",
+            "TotalStudentsSinceInception":"45",
+            "CiscoCertificationsSinceInception":"9",
+            "geometry" : {
+                "coordinates": [-15.180413, 11.803749], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Guyana",
+            "TotalCurrentStudentEnrollment":"21",
+            "CurrentPercentFemaleEnrollment":"0",
+            "TotalStudentsSinceInception":"23",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [-58.93018, 4.860416], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Haiti",
+            "TotalCurrentStudentEnrollment":"746",
+            "CurrentPercentFemaleEnrollment":"0.121983914",
+            "TotalStudentsSinceInception":"3170",
+            "CiscoCertificationsSinceInception":"680",
+            "geometry" : {
+                "coordinates": [-72.285215, 18.971187], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Honduras",
+            "TotalCurrentStudentEnrollment":"2074",
+            "CurrentPercentFemaleEnrollment":"0.241080039",
+            "TotalStudentsSinceInception":"8127",
+            "CiscoCertificationsSinceInception":"874",
+            "geometry" : {
+                "coordinates": [-86.241905, 15.199999], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Greater China",
+            "Country_State_Province":"Hong Kong",
+            "TotalCurrentStudentEnrollment":"5961",
+            "CurrentPercentFemaleEnrollment":"0.112397249",
+            "TotalStudentsSinceInception":"37136",
+            "CiscoCertificationsSinceInception":"5627",
+            "geometry" : {
+                "coordinates": [114.109497, 22.396428], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe Central",
+            "Country_State_Province":"Hungary",
+            "TotalCurrentStudentEnrollment":"9979",
+            "CurrentPercentFemaleEnrollment":"0.101513178",
+            "TotalStudentsSinceInception":"41398",
+            "CiscoCertificationsSinceInception":"11927",
+            "geometry" : {
+                "coordinates": [19.503304, 47.162494], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe North",
+            "Country_State_Province":"Iceland",
+            "TotalCurrentStudentEnrollment":"575",
+            "CurrentPercentFemaleEnrollment":"0.046956522",
+            "TotalStudentsSinceInception":"4009",
+            "CiscoCertificationsSinceInception":"112",
+            "geometry" : {
+                "coordinates": [-19.020835, 64.963051], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"India",
+            "TotalCurrentStudentEnrollment":"36813",
+            "CurrentPercentFemaleEnrollment":"0.280933366",
+            "TotalStudentsSinceInception":"155960",
+            "CiscoCertificationsSinceInception":"47114",
+            "geometry" : {
+                "coordinates": [78.96288, 20.593684], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"Indonesia",
+            "TotalCurrentStudentEnrollment":"32735",
+            "CurrentPercentFemaleEnrollment":"0.237727203",
+            "TotalStudentsSinceInception":"182506",
+            "CiscoCertificationsSinceInception":"44302",
+            "geometry" : {
+                "coordinates": [113.921327, -0.789275], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Middle East",
+            "Country_State_Province":"Iraq",
+            "TotalCurrentStudentEnrollment":"2445",
+            "CurrentPercentFemaleEnrollment":"0.291206544",
+            "TotalStudentsSinceInception":"11871",
+            "CiscoCertificationsSinceInception":"755",
+            "geometry" : {
+                "coordinates": [43.679291, 33.223191], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"UKI",
+            "Country_State_Province":"Ireland",
+            "TotalCurrentStudentEnrollment":"2609",
+            "CurrentPercentFemaleEnrollment":"0.104637792",
+            "TotalStudentsSinceInception":"19304",
+            "CiscoCertificationsSinceInception":"3593",
+            "geometry" : {
+                "coordinates": [-8.24389, 53.41291], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"UKI",
+            "Country_State_Province":"Isle of Man",
+            "TotalCurrentStudentEnrollment":"82",
+            "CurrentPercentFemaleEnrollment":"0.073170732",
+            "TotalStudentsSinceInception":"1040",
+            "CiscoCertificationsSinceInception":"60",
+            "geometry" : {
+                "coordinates": [-4.548056, 54.236107], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe South",
+            "Country_State_Province":"Israel",
+            "TotalCurrentStudentEnrollment":"3610",
+            "CurrentPercentFemaleEnrollment":"0.136565097",
+            "TotalStudentsSinceInception":"27269",
+            "CiscoCertificationsSinceInception":"7379",
+            "geometry" : {
+                "coordinates": [34.851612, 31.046051], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe South",
+            "Country_State_Province":"Italy",
+            "TotalCurrentStudentEnrollment":"47661",
+            "CurrentPercentFemaleEnrollment":"0.152262856",
+            "TotalStudentsSinceInception":"146570",
+            "CiscoCertificationsSinceInception":"20558",
+            "geometry" : {
+                "coordinates": [12.56738, 41.87194], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Jamaica",
+            "TotalCurrentStudentEnrollment":"923",
+            "CurrentPercentFemaleEnrollment":"0.169014085",
+            "TotalStudentsSinceInception":"6736",
+            "CiscoCertificationsSinceInception":"1455",
+            "geometry" : {
+                "coordinates": [-77.297508, 18.109581], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"Japan",
+            "TotalCurrentStudentEnrollment":"3296",
+            "CurrentPercentFemaleEnrollment":"0.094963592",
+            "TotalStudentsSinceInception":"59201",
+            "CiscoCertificationsSinceInception":"14660",
+            "geometry" : {
+                "coordinates": [138.252924, 36.204824], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"UKI",
+            "Country_State_Province":"Jersey",
+            "TotalCurrentStudentEnrollment":"48",
+            "CurrentPercentFemaleEnrollment":"0.041666667",
+            "TotalStudentsSinceInception":"834",
+            "CiscoCertificationsSinceInception":"35",
+            "geometry" : {
+                "coordinates": [-2.13125, 49.214439], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Middle East",
+            "Country_State_Province":"Jordan",
+            "TotalCurrentStudentEnrollment":"4967",
+            "CurrentPercentFemaleEnrollment":"0.365210389",
+            "TotalStudentsSinceInception":"20327",
+            "CiscoCertificationsSinceInception":"6624",
+            "geometry" : {
+                "coordinates": [36.238414, 30.585164], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe Central",
+            "Country_State_Province":"Kazakhstan",
+            "TotalCurrentStudentEnrollment":"5410",
+            "CurrentPercentFemaleEnrollment":"0.281330869",
+            "TotalStudentsSinceInception":"19562",
+            "CiscoCertificationsSinceInception":"2517",
+            "geometry" : {
+                "coordinates": [66.923684, 48.019573], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Kenya",
+            "TotalCurrentStudentEnrollment":"8414",
+            "CurrentPercentFemaleEnrollment":"0.296767293",
+            "TotalStudentsSinceInception":"36106",
+            "CiscoCertificationsSinceInception":"8400",
+            "geometry" : {
+                "coordinates": [37.906193, -0.023559], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"Kiribati",
+            "TotalCurrentStudentEnrollment":"6",
+            "CurrentPercentFemaleEnrollment":"0.166666667",
+            "TotalStudentsSinceInception":"11",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [-168.734039, -3.370417], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"Korea, South (Republic of)",
+            "TotalCurrentStudentEnrollment":"2926",
+            "CurrentPercentFemaleEnrollment":"0.227614491",
+            "TotalStudentsSinceInception":"42947",
+            "CiscoCertificationsSinceInception":"9500",
+            "geometry" : {
+                "coordinates": [127.766922, 35.907757], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe Central",
+            "Country_State_Province":"Kosovo",
+            "TotalCurrentStudentEnrollment":"1572",
+            "CurrentPercentFemaleEnrollment":"0.24173028",
+            "TotalStudentsSinceInception":"9963",
+            "CiscoCertificationsSinceInception":"2925",
+            "geometry" : {
+                "coordinates": [20.902977, 42.602636], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Middle East",
+            "Country_State_Province":"Kuwait",
+            "TotalCurrentStudentEnrollment":"208",
+            "CurrentPercentFemaleEnrollment":"0.206730769",
+            "TotalStudentsSinceInception":"929",
+            "CiscoCertificationsSinceInception":"46",
+            "geometry" : {
+                "coordinates": [47.481766, 29.31166], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe Central",
+            "Country_State_Province":"Kyrgyzstan",
+            "TotalCurrentStudentEnrollment":"232",
+            "CurrentPercentFemaleEnrollment":"0.172413793",
+            "TotalStudentsSinceInception":"1666",
+            "CiscoCertificationsSinceInception":"389",
+            "geometry" : {
+                "coordinates": [74.766098, 41.20438], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"Laos",
+            "TotalCurrentStudentEnrollment":"366",
+            "CurrentPercentFemaleEnrollment":"0.366120219",
+            "TotalStudentsSinceInception":"1400",
+            "CiscoCertificationsSinceInception":"556",
+            "geometry" : {
+                "coordinates": [102.495496, 19.85627], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe North",
+            "Country_State_Province":"Latvia",
+            "TotalCurrentStudentEnrollment":"944",
+            "CurrentPercentFemaleEnrollment":"0.184322034",
+            "TotalStudentsSinceInception":"5663",
+            "CiscoCertificationsSinceInception":"766",
+            "geometry" : {
+                "coordinates": [24.603189, 56.879635], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Middle East",
+            "Country_State_Province":"Lebanon",
+            "TotalCurrentStudentEnrollment":"2807",
+            "CurrentPercentFemaleEnrollment":"0.198076238",
+            "TotalStudentsSinceInception":"17927",
+            "CiscoCertificationsSinceInception":"7162",
+            "geometry" : {
+                "coordinates": [35.862285, 33.854721], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Lesotho",
+            "TotalCurrentStudentEnrollment":"151",
+            "CurrentPercentFemaleEnrollment":"0.112582781",
+            "TotalStudentsSinceInception":"1450",
+            "CiscoCertificationsSinceInception":"425",
+            "geometry" : {
+                "coordinates": [28.233608, -29.609988], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Liberia",
+            "TotalCurrentStudentEnrollment":"48",
+            "CurrentPercentFemaleEnrollment":"0.041666667",
+            "TotalStudentsSinceInception":"286",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [-9.429499, 6.428055], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Libya",
+            "TotalCurrentStudentEnrollment":"364",
+            "CurrentPercentFemaleEnrollment":"0.293956044",
+            "TotalStudentsSinceInception":"1628",
+            "CiscoCertificationsSinceInception":"360",
+            "geometry" : {
+                "coordinates": [17.228331, 26.3351], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe Central",
+            "Country_State_Province":"Liechtenstein",
+            "TotalCurrentStudentEnrollment":"1",
+            "CurrentPercentFemaleEnrollment":"0",
+            "TotalStudentsSinceInception":"2",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [9.555373, 47.166], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe North",
+            "Country_State_Province":"Lithuania",
+            "TotalCurrentStudentEnrollment":"552",
+            "CurrentPercentFemaleEnrollment":"0.067028986",
+            "TotalStudentsSinceInception":"5550",
+            "CiscoCertificationsSinceInception":"2238",
+            "geometry" : {
+                "coordinates": [23.881275, 55.169438], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe North",
+            "Country_State_Province":"Luxembourg",
+            "TotalCurrentStudentEnrollment":"97",
+            "CurrentPercentFemaleEnrollment":"0.051546392",
+            "TotalStudentsSinceInception":"469",
+            "CiscoCertificationsSinceInception":"245",
+            "geometry" : {
+                "coordinates": [6.129583, 49.815273], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Greater China",
+            "Country_State_Province":"Macau",
+            "TotalCurrentStudentEnrollment":"545",
+            "CurrentPercentFemaleEnrollment":"0.104587156",
+            "TotalStudentsSinceInception":"4410",
+            "CiscoCertificationsSinceInception":"1906",
+            "geometry" : {
+                "coordinates": [113.543873, 22.198745], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Madagascar",
+            "TotalCurrentStudentEnrollment":"123",
+            "CurrentPercentFemaleEnrollment":"0.105691057",
+            "TotalStudentsSinceInception":"967",
+            "CiscoCertificationsSinceInception":"296",
+            "geometry" : {
+                "coordinates": [46.869107, -18.766947], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Malawi",
+            "TotalCurrentStudentEnrollment":"507",
+            "CurrentPercentFemaleEnrollment":"0.163708087",
+            "TotalStudentsSinceInception":"4591",
+            "CiscoCertificationsSinceInception":"1016",
+            "geometry" : {
+                "coordinates": [34.301525, -13.254308], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"Malaysia",
+            "TotalCurrentStudentEnrollment":"12298",
+            "CurrentPercentFemaleEnrollment":"0.359489348",
+            "TotalStudentsSinceInception":"63679",
+            "CiscoCertificationsSinceInception":"20153",
+            "geometry" : {
+                "coordinates": [101.975766, 4.210484], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"Maldives",
+            "TotalCurrentStudentEnrollment":"54",
+            "CurrentPercentFemaleEnrollment":"0",
+            "TotalStudentsSinceInception":"362",
+            "CiscoCertificationsSinceInception":"104",
+            "geometry" : {
+                "coordinates": [73.22068, 3.202778], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Mali",
+            "TotalCurrentStudentEnrollment":"627",
+            "CurrentPercentFemaleEnrollment":"0.148325359",
+            "TotalStudentsSinceInception":"2026",
+            "CiscoCertificationsSinceInception":"399",
+            "geometry" : {
+                "coordinates": [-3.996166, 17.570692], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe South",
+            "Country_State_Province":"Malta",
+            "TotalCurrentStudentEnrollment":"308",
+            "CurrentPercentFemaleEnrollment":"0.090909091",
+            "TotalStudentsSinceInception":"3727",
+            "CiscoCertificationsSinceInception":"1121",
+            "geometry" : {
+                "coordinates": [14.375416, 35.937496], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"United States & Canada",
+            "Country_State_Province":"Marshall Islands",
+            "TotalCurrentStudentEnrollment":"26",
+            "CurrentPercentFemaleEnrollment":"0",
+            "TotalStudentsSinceInception":"141",
+            "CiscoCertificationsSinceInception":"12",
+            "geometry" : {
+                "coordinates": [171.184478, 7.131474], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"France Theatre",
+            "Country_State_Province":"Martinique",
+            "TotalCurrentStudentEnrollment":"60",
+            "CurrentPercentFemaleEnrollment":"0.083333333",
+            "TotalStudentsSinceInception":"266",
+            "CiscoCertificationsSinceInception":"14",
+            "geometry" : {
+                "coordinates": [-61.024174, 14.641528], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Mauritania",
+            "TotalCurrentStudentEnrollment":"68",
+            "CurrentPercentFemaleEnrollment":"0.117647059",
+            "TotalStudentsSinceInception":"447",
+            "CiscoCertificationsSinceInception":"23",
+            "geometry" : {
+                "coordinates": [-10.940835, 21.00789], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Mauritius",
+            "TotalCurrentStudentEnrollment":"647",
+            "CurrentPercentFemaleEnrollment":"0.182380216",
+            "TotalStudentsSinceInception":"4340",
+            "CiscoCertificationsSinceInception":"918",
+            "geometry" : {
+                "coordinates": [57.552152, -20.348404], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Mexico",
+            "TotalCurrentStudentEnrollment":"59501",
+            "CurrentPercentFemaleEnrollment":"0.268298012",
+            "TotalStudentsSinceInception":"383280",
+            "CiscoCertificationsSinceInception":"82544",
+            "geometry" : {
+                "coordinates": [-102.552784, 23.634501], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"Micronesia (Federated States of)",
+            "TotalCurrentStudentEnrollment":"23",
+            "CurrentPercentFemaleEnrollment":"0.260869565",
+            "TotalStudentsSinceInception":"276",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [150.550812, 7.425554], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe Central",
+            "Country_State_Province":"Moldova (Republic of)",
+            "TotalCurrentStudentEnrollment":"1858",
+            "CurrentPercentFemaleEnrollment":"0.226587729",
+            "TotalStudentsSinceInception":"7332",
+            "CiscoCertificationsSinceInception":"917",
+            "geometry" : {
+                "coordinates": [28.369885, 47.411631], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"France Theatre",
+            "Country_State_Province":"Monaco",
+            "TotalCurrentStudentEnrollment":"1",
+            "CurrentPercentFemaleEnrollment":"0",
+            "TotalStudentsSinceInception":"2",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [7.412841, 43.750298], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Greater China",
+            "Country_State_Province":"Mongolia",
+            "TotalCurrentStudentEnrollment":"391",
+            "CurrentPercentFemaleEnrollment":"0.227621483",
+            "TotalStudentsSinceInception":"5183",
+            "CiscoCertificationsSinceInception":"933",
+            "geometry" : {
+                "coordinates": [103.846656, 46.862496], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe Central",
+            "Country_State_Province":"Montenegro",
+            "TotalCurrentStudentEnrollment":"54",
+            "CurrentPercentFemaleEnrollment":"0.148148148",
+            "TotalStudentsSinceInception":"251",
+            "CiscoCertificationsSinceInception":"72",
+            "geometry" : {
+                "coordinates": [19.37439, 42.708678], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Montserrat",
+            "TotalCurrentStudentEnrollment":"1",
+            "CurrentPercentFemaleEnrollment":"0",
+            "TotalStudentsSinceInception":"1",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [-62.187366, 16.742498], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Morocco",
+            "TotalCurrentStudentEnrollment":"12031",
+            "CurrentPercentFemaleEnrollment":"0.311944144",
+            "TotalStudentsSinceInception":"61148",
+            "CiscoCertificationsSinceInception":"17904",
+            "geometry" : {
+                "coordinates": [-7.09262, 31.791702], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Mozambique",
+            "TotalCurrentStudentEnrollment":"745",
+            "CurrentPercentFemaleEnrollment":"0.079194631",
+            "TotalStudentsSinceInception":"4042",
+            "CiscoCertificationsSinceInception":"801",
+            "geometry" : {
+                "coordinates": [35.529562, -18.665695], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"Myanmar",
+            "TotalCurrentStudentEnrollment":"558",
+            "CurrentPercentFemaleEnrollment":"0.465949821",
+            "TotalStudentsSinceInception":"969",
+            "CiscoCertificationsSinceInception":"244",
+            "geometry" : {
+                "coordinates": [95.956223, 21.913965], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Namibia",
+            "TotalCurrentStudentEnrollment":"285",
+            "CurrentPercentFemaleEnrollment":"0.203508772",
+            "TotalStudentsSinceInception":"2334",
+            "CiscoCertificationsSinceInception":"555",
+            "geometry" : {
+                "coordinates": [18.49041, -22.95764], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"Nepal",
+            "TotalCurrentStudentEnrollment":"1498",
+            "CurrentPercentFemaleEnrollment":"0.104806409",
+            "TotalStudentsSinceInception":"5159",
+            "CiscoCertificationsSinceInception":"2035",
+            "geometry" : {
+                "coordinates": [84.124008, 28.394857], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe North",
+            "Country_State_Province":"Netherlands",
+            "TotalCurrentStudentEnrollment":"11042",
+            "CurrentPercentFemaleEnrollment":"0.034142366",
+            "TotalStudentsSinceInception":"97037",
+            "CiscoCertificationsSinceInception":"15396",
+            "geometry" : {
+                "coordinates": [5.291266, 52.132633], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"France Theatre",
+            "Country_State_Province":"New Caledonia",
+            "TotalCurrentStudentEnrollment":"5",
+            "CurrentPercentFemaleEnrollment":"0",
+            "TotalStudentsSinceInception":"10",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [165.618042, -20.904305], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"New Zealand",
+            "TotalCurrentStudentEnrollment":"2886",
+            "CurrentPercentFemaleEnrollment":"0.128898129",
+            "TotalStudentsSinceInception":"25457",
+            "CiscoCertificationsSinceInception":"5610",
+            "geometry" : {
+                "coordinates": [174.885971, -40.900557], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Nicaragua",
+            "TotalCurrentStudentEnrollment":"614",
+            "CurrentPercentFemaleEnrollment":"0.120521173",
+            "TotalStudentsSinceInception":"6013",
+            "CiscoCertificationsSinceInception":"1720",
+            "geometry" : {
+                "coordinates": [-85.207229, 12.865416], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Niger",
+            "TotalCurrentStudentEnrollment":"188",
+            "CurrentPercentFemaleEnrollment":"0.095744681",
+            "TotalStudentsSinceInception":"649",
+            "CiscoCertificationsSinceInception":"150",
+            "geometry" : {
+                "coordinates": [8.081666, 17.607789], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Nigeria",
+            "TotalCurrentStudentEnrollment":"32702",
+            "CurrentPercentFemaleEnrollment":"0.416855238",
+            "TotalStudentsSinceInception":"101772",
+            "CiscoCertificationsSinceInception":"8619",
+            "geometry" : {
+                "coordinates": [8.675277, 9.081999], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"Norfolk Island",
+            "TotalCurrentStudentEnrollment":"1",
+            "CurrentPercentFemaleEnrollment":"0",
+            "TotalStudentsSinceInception":"1",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [167.954712, -29.040835], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"Northern Mariana Islands",
+            "TotalCurrentStudentEnrollment":"1",
+            "CurrentPercentFemaleEnrollment":"0",
+            "TotalStudentsSinceInception":"2",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [145.38469, 17.33083], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe North",
+            "Country_State_Province":"Norway",
+            "TotalCurrentStudentEnrollment":"504",
+            "CurrentPercentFemaleEnrollment":"0.083333333",
+            "TotalStudentsSinceInception":"4732",
+            "CiscoCertificationsSinceInception":"2180",
+            "geometry" : {
+                "coordinates": [8.468946, 60.472024], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Middle East",
+            "Country_State_Province":"Oman",
+            "TotalCurrentStudentEnrollment":"3325",
+            "CurrentPercentFemaleEnrollment":"0.707067669",
+            "TotalStudentsSinceInception":"15451",
+            "CiscoCertificationsSinceInception":"2045",
+            "geometry" : {
+                "coordinates": [55.923255, 21.512583], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Middle East",
+            "Country_State_Province":"Pakistan",
+            "TotalCurrentStudentEnrollment":"8257",
+            "CurrentPercentFemaleEnrollment":"0.103306286",
+            "TotalStudentsSinceInception":"37272",
+            "CiscoCertificationsSinceInception":"20963",
+            "geometry" : {
+                "coordinates": [69.345116, 30.375321], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Middle East",
+            "Country_State_Province":"Palestine, State of",
+            "TotalCurrentStudentEnrollment":"2505",
+            "CurrentPercentFemaleEnrollment":"0.349700599",
+            "TotalStudentsSinceInception":"10188",
+            "CiscoCertificationsSinceInception":"2061",
+            "geometry" : {
+                "coordinates": [35.233154, 31.952162], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Panama",
+            "TotalCurrentStudentEnrollment":"1717",
+            "CurrentPercentFemaleEnrollment":"0.205008736",
+            "TotalStudentsSinceInception":"13200",
+            "CiscoCertificationsSinceInception":"3660",
+            "geometry" : {
+                "coordinates": [-80.782127, 8.537981], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"Papua New Guinea",
+            "TotalCurrentStudentEnrollment":"204",
+            "CurrentPercentFemaleEnrollment":"0.274509804",
+            "TotalStudentsSinceInception":"611",
+            "CiscoCertificationsSinceInception":"109",
+            "geometry" : {
+                "coordinates": [143.95555, -6.314993], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Paraguay",
+            "TotalCurrentStudentEnrollment":"1054",
+            "CurrentPercentFemaleEnrollment":"0.233396584",
+            "TotalStudentsSinceInception":"6890",
+            "CiscoCertificationsSinceInception":"1316",
+            "geometry" : {
+                "coordinates": [-58.443832, -23.442503], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Peru",
+            "TotalCurrentStudentEnrollment":"246555",
+            "CurrentPercentFemaleEnrollment":"0.457666646",
+            "TotalStudentsSinceInception":"409866",
+            "CiscoCertificationsSinceInception":"12993",
+            "geometry" : {
+                "coordinates": [-75.015152, -9.189967], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"Philippines",
+            "TotalCurrentStudentEnrollment":"41496",
+            "CurrentPercentFemaleEnrollment":"0.309475612",
+            "TotalStudentsSinceInception":"368290",
+            "CiscoCertificationsSinceInception":"85588",
+            "geometry" : {
+                "coordinates": [121.774017, 12.879721], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe Central",
+            "Country_State_Province":"Poland",
+            "TotalCurrentStudentEnrollment":"25668",
+            "CurrentPercentFemaleEnrollment":"0.097202743",
+            "TotalStudentsSinceInception":"157385",
+            "CiscoCertificationsSinceInception":"34516",
+            "geometry" : {
+                "coordinates": [19.145136, 51.919438], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe South",
+            "Country_State_Province":"Portugal",
+            "TotalCurrentStudentEnrollment":"2587",
+            "CurrentPercentFemaleEnrollment":"0.093158098",
+            "TotalStudentsSinceInception":"18445",
+            "CiscoCertificationsSinceInception":"4856",
+            "geometry" : {
+                "coordinates": [-8.224454, 39.399872], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Puerto Rico",
+            "TotalCurrentStudentEnrollment":"247",
+            "CurrentPercentFemaleEnrollment":"0.064777328",
+            "TotalStudentsSinceInception":"1841",
+            "CiscoCertificationsSinceInception":"549",
+            "geometry" : {
+                "coordinates": [-66.590149, 18.220833], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Middle East",
+            "Country_State_Province":"Qatar",
+            "TotalCurrentStudentEnrollment":"391",
+            "CurrentPercentFemaleEnrollment":"0.204603581",
+            "TotalStudentsSinceInception":"1732",
+            "CiscoCertificationsSinceInception":"459",
+            "geometry" : {
+                "coordinates": [51.183884, 25.354826], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"France Theatre",
+            "Country_State_Province":"Réunion",
+            "TotalCurrentStudentEnrollment":"163",
+            "CurrentPercentFemaleEnrollment":"0.055214724",
+            "TotalStudentsSinceInception":"1193",
+            "CiscoCertificationsSinceInception":"47",
+            "geometry" : {
+                "coordinates": [55.536384, -21.115141], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe Central",
+            "Country_State_Province":"Romania",
+            "TotalCurrentStudentEnrollment":"11727",
+            "CurrentPercentFemaleEnrollment":"0.251044598",
+            "TotalStudentsSinceInception":"96973",
+            "CiscoCertificationsSinceInception":"17366",
+            "geometry" : {
+                "coordinates": [24.96676, 45.943161], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe Central",
+            "Country_State_Province":"Russian Federation",
+            "TotalCurrentStudentEnrollment":"21643",
+            "CurrentPercentFemaleEnrollment":"0.204454096",
+            "TotalStudentsSinceInception":"89342",
+            "CiscoCertificationsSinceInception":"22575",
+            "geometry" : {
+                "coordinates": [105.318756, 61.52401], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Rwanda",
+            "TotalCurrentStudentEnrollment":"1522",
+            "CurrentPercentFemaleEnrollment":"0.29303548",
+            "TotalStudentsSinceInception":"9246",
+            "CiscoCertificationsSinceInception":"2167",
+            "geometry" : {
+                "coordinates": [29.873888, -1.940278], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Saint Helena, Ascension and Tristan da Cunha",
+            "TotalCurrentStudentEnrollment":"2",
+            "CurrentPercentFemaleEnrollment":"0",
+            "TotalStudentsSinceInception":"2",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [-10.030696, -24.143474], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Saint Kitts and Nevis",
+            "TotalCurrentStudentEnrollment":"3",
+            "CurrentPercentFemaleEnrollment":"0",
+            "TotalStudentsSinceInception":"6",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [-62.782998, 17.357822], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Saint Lucia",
+            "TotalCurrentStudentEnrollment":"23",
+            "CurrentPercentFemaleEnrollment":"0.043478261",
+            "TotalStudentsSinceInception":"63",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [-60.978893, 13.909444], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"France Theatre",
+            "Country_State_Province":"Saint Pierre and Miquelon",
+            "TotalCurrentStudentEnrollment":"4",
+            "CurrentPercentFemaleEnrollment":"0",
+            "TotalStudentsSinceInception":"5",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [-56.27111, 46.941936], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Saint Vincent and the Grenadines",
+            "TotalCurrentStudentEnrollment":"7",
+            "CurrentPercentFemaleEnrollment":"0.142857143",
+            "TotalStudentsSinceInception":"9",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [-61.287228, 12.984305], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"Samoa",
+            "TotalCurrentStudentEnrollment":"102",
+            "CurrentPercentFemaleEnrollment":"0.147058824",
+            "TotalStudentsSinceInception":"832",
+            "CiscoCertificationsSinceInception":"146",
+            "geometry" : {
+                "coordinates": [-172.104629, -13.759029], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe South",
+            "Country_State_Province":"San Marino",
+            "TotalCurrentStudentEnrollment":"1",
+            "CurrentPercentFemaleEnrollment":"0",
+            "TotalStudentsSinceInception":"1",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [12.457777, 43.94236], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Sao Tome and Principe",
+            "TotalCurrentStudentEnrollment":"35",
+            "CurrentPercentFemaleEnrollment":"0.114285714",
+            "TotalStudentsSinceInception":"70",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [6.613081, 0.18636], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Middle East",
+            "Country_State_Province":"Saudi Arabia",
+            "TotalCurrentStudentEnrollment":"19354",
+            "CurrentPercentFemaleEnrollment":"0.204712204",
+            "TotalStudentsSinceInception":"88581",
+            "CiscoCertificationsSinceInception":"9719",
+            "geometry" : {
+                "coordinates": [45.079162, 23.885942], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Senegal",
+            "TotalCurrentStudentEnrollment":"2972",
+            "CurrentPercentFemaleEnrollment":"0.226783311",
+            "TotalStudentsSinceInception":"12090",
+            "CiscoCertificationsSinceInception":"2492",
+            "geometry" : {
+                "coordinates": [-14.452362, 14.497401], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe Central",
+            "Country_State_Province":"Serbia",
+            "TotalCurrentStudentEnrollment":"1581",
+            "CurrentPercentFemaleEnrollment":"0.144212524",
+            "TotalStudentsSinceInception":"4576",
+            "CiscoCertificationsSinceInception":"2392",
+            "geometry" : {
+                "coordinates": [21.005859, 44.016521], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Seychelles",
+            "TotalCurrentStudentEnrollment":"84",
+            "CurrentPercentFemaleEnrollment":"0.178571429",
+            "TotalStudentsSinceInception":"258",
+            "CiscoCertificationsSinceInception":"76",
+            "geometry" : {
+                "coordinates": [55.491977, -4.679574], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Sierra Leone",
+            "TotalCurrentStudentEnrollment":"79",
+            "CurrentPercentFemaleEnrollment":"0.075949367",
+            "TotalStudentsSinceInception":"695",
+            "CiscoCertificationsSinceInception":"298",
+            "geometry" : {
+                "coordinates": [-11.779889, 8.460555], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"Singapore",
+            "TotalCurrentStudentEnrollment":"4074",
+            "CurrentPercentFemaleEnrollment":"0.156357388",
+            "TotalStudentsSinceInception":"60747",
+            "CiscoCertificationsSinceInception":"8624",
+            "geometry" : {
+                "coordinates": [103.819836, 1.352083], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe Central",
+            "Country_State_Province":"Slovakia",
+            "TotalCurrentStudentEnrollment":"5484",
+            "CurrentPercentFemaleEnrollment":"0.093544858",
+            "TotalStudentsSinceInception":"35098",
+            "CiscoCertificationsSinceInception":"7884",
+            "geometry" : {
+                "coordinates": [19.699024, 48.669026], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe Central",
+            "Country_State_Province":"Slovenia",
+            "TotalCurrentStudentEnrollment":"514",
+            "CurrentPercentFemaleEnrollment":"0.035019455",
+            "TotalStudentsSinceInception":"3354",
+            "CiscoCertificationsSinceInception":"643",
+            "geometry" : {
+                "coordinates": [14.995463, 46.151241], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"Solomon Islands",
+            "TotalCurrentStudentEnrollment":"5",
+            "CurrentPercentFemaleEnrollment":"0",
+            "TotalStudentsSinceInception":"6",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [160.156194, -9.64571], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Somalia",
+            "TotalCurrentStudentEnrollment":"1257",
+            "CurrentPercentFemaleEnrollment":"0.23786794",
+            "TotalStudentsSinceInception":"4244",
+            "CiscoCertificationsSinceInception":"144",
+            "geometry" : {
+                "coordinates": [46.199616, 5.152149], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"South Africa",
+            "TotalCurrentStudentEnrollment":"12396",
+            "CurrentPercentFemaleEnrollment":"0.249273959",
+            "TotalStudentsSinceInception":"50391",
+            "CiscoCertificationsSinceInception":"11729",
+            "geometry" : {
+                "coordinates": [22.937506, -30.559482], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"South Sudan",
+            "TotalCurrentStudentEnrollment":"36",
+            "CurrentPercentFemaleEnrollment":"0.027777778",
+            "TotalStudentsSinceInception":"36",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [30.217636, 12.862807], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe South",
+            "Country_State_Province":"Spain",
+            "TotalCurrentStudentEnrollment":"19049",
+            "CurrentPercentFemaleEnrollment":"0.096750486",
+            "TotalStudentsSinceInception":"155445",
+            "CiscoCertificationsSinceInception":"42715",
+            "geometry" : {
+                "coordinates": [-3.74922, 40.463667], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"Sri Lanka",
+            "TotalCurrentStudentEnrollment":"4554",
+            "CurrentPercentFemaleEnrollment":"0.22397892",
+            "TotalStudentsSinceInception":"12808",
+            "CiscoCertificationsSinceInception":"3109",
+            "geometry" : {
+                "coordinates": [80.771797, 7.873054], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Suriname",
+            "TotalCurrentStudentEnrollment":"133",
+            "CurrentPercentFemaleEnrollment":"0.218045113",
+            "TotalStudentsSinceInception":"284",
+            "CiscoCertificationsSinceInception":"57",
+            "geometry" : {
+                "coordinates": [-56.027783, 3.919305], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Swaziland",
+            "TotalCurrentStudentEnrollment":"25",
+            "CurrentPercentFemaleEnrollment":"0.08",
+            "TotalStudentsSinceInception":"132",
+            "CiscoCertificationsSinceInception":"17",
+            "geometry" : {
+                "coordinates": [31.465866, -26.522503], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe North",
+            "Country_State_Province":"Sweden",
+            "TotalCurrentStudentEnrollment":"4090",
+            "CurrentPercentFemaleEnrollment":"0.08190709",
+            "TotalStudentsSinceInception":"43847",
+            "CiscoCertificationsSinceInception":"10255",
+            "geometry" : {
+                "coordinates": [18.643501, 60.128161], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe Central",
+            "Country_State_Province":"Switzerland",
+            "TotalCurrentStudentEnrollment":"1302",
+            "CurrentPercentFemaleEnrollment":"0.059139785",
+            "TotalStudentsSinceInception":"9378",
+            "CiscoCertificationsSinceInception":"3146",
+            "geometry" : {
+                "coordinates": [8.227512, 46.818188], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Middle East",
+            "Country_State_Province":"Syrian Arab Republic",
+            "TotalCurrentStudentEnrollment":"",
+            "CurrentPercentFemaleEnrollment":"",
+            "TotalStudentsSinceInception":"1044",
+            "CiscoCertificationsSinceInception":"504",
+            "geometry" : {
+                "coordinates": [38.996815, 34.802075], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Greater China",
+            "Country_State_Province":"Taiwan",
+            "TotalCurrentStudentEnrollment":"9949",
+            "CurrentPercentFemaleEnrollment":"0.203940094",
+            "TotalStudentsSinceInception":"119105",
+            "CiscoCertificationsSinceInception":"22897",
+            "geometry" : {
+                "coordinates": [120.960515, 23.69781], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe Central",
+            "Country_State_Province":"Tajikistan",
+            "TotalCurrentStudentEnrollment":"310",
+            "CurrentPercentFemaleEnrollment":"0.135483871",
+            "TotalStudentsSinceInception":"2666",
+            "CiscoCertificationsSinceInception":"286",
+            "geometry" : {
+                "coordinates": [71.276093, 38.861034], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Tanzania, United Republic of",
+            "TotalCurrentStudentEnrollment":"2010",
+            "CurrentPercentFemaleEnrollment":"0.171641791",
+            "TotalStudentsSinceInception":"17546",
+            "CiscoCertificationsSinceInception":"4287",
+            "geometry" : {
+                "coordinates": [34.888822, -6.369028], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"Thailand",
+            "TotalCurrentStudentEnrollment":"5074",
+            "CurrentPercentFemaleEnrollment":"0.258967284",
+            "TotalStudentsSinceInception":"45525",
+            "CiscoCertificationsSinceInception":"9305",
+            "geometry" : {
+                "coordinates": [100.992541, 15.870032], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe Central",
+            "Country_State_Province":"Macedonia (the former Yugoslav Republic of)",
+            "TotalCurrentStudentEnrollment":"91",
+            "CurrentPercentFemaleEnrollment":"0.10989011",
+            "TotalStudentsSinceInception":"2338",
+            "CiscoCertificationsSinceInception":"867",
+            "geometry" : {
+                "coordinates": [21.745275, 41.608635], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Togo",
+            "TotalCurrentStudentEnrollment":"286",
+            "CurrentPercentFemaleEnrollment":"0.146853147",
+            "TotalStudentsSinceInception":"1807",
+            "CiscoCertificationsSinceInception":"332",
+            "geometry" : {
+                "coordinates": [0.824782, 8.619543], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"Tonga",
+            "TotalCurrentStudentEnrollment":"94",
+            "CurrentPercentFemaleEnrollment":"0.5",
+            "TotalStudentsSinceInception":"539",
+            "CiscoCertificationsSinceInception":"42",
+            "geometry" : {
+                "coordinates": [-175.198242, -21.178986], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Trinidad and Tobago",
+            "TotalCurrentStudentEnrollment":"173",
+            "CurrentPercentFemaleEnrollment":"0.121387283",
+            "TotalStudentsSinceInception":"1484",
+            "CiscoCertificationsSinceInception":"212",
+            "geometry" : {
+                "coordinates": [-61.222503, 10.691803], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Tunisia",
+            "TotalCurrentStudentEnrollment":"4974",
+            "CurrentPercentFemaleEnrollment":"0.402895054",
+            "TotalStudentsSinceInception":"25350",
+            "CiscoCertificationsSinceInception":"5324",
+            "geometry" : {
+                "coordinates": [9.537499, 33.886917], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Middle East",
+            "Country_State_Province":"Turkey",
+            "TotalCurrentStudentEnrollment":"6857",
+            "CurrentPercentFemaleEnrollment":"0.170920228",
+            "TotalStudentsSinceInception":"58785",
+            "CiscoCertificationsSinceInception":"7654",
+            "geometry" : {
+                "coordinates": [35.243322, 38.963745], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe Central",
+            "Country_State_Province":"Turkmenistan",
+            "TotalCurrentStudentEnrollment":"14",
+            "CurrentPercentFemaleEnrollment":"0.071428571",
+            "TotalStudentsSinceInception":"22",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [59.556278, 38.969719], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Turks and Caicos Islands",
+            "TotalCurrentStudentEnrollment":"1",
+            "CurrentPercentFemaleEnrollment":"0",
+            "TotalStudentsSinceInception":"1",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [-71.797928, 21.694025], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"Tuvalu",
+            "TotalCurrentStudentEnrollment":"1",
+            "CurrentPercentFemaleEnrollment":"0",
+            "TotalStudentsSinceInception":"2",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [177.64933, -7.109535], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Uganda",
+            "TotalCurrentStudentEnrollment":"4077",
+            "CurrentPercentFemaleEnrollment":"0.259259259",
+            "TotalStudentsSinceInception":"45506",
+            "CiscoCertificationsSinceInception":"23820",
+            "geometry" : {
+                "coordinates": [32.290275, 1.373333], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe Central",
+            "Country_State_Province":"Ukraine",
+            "TotalCurrentStudentEnrollment":"13494",
+            "CurrentPercentFemaleEnrollment":"0.204609456",
+            "TotalStudentsSinceInception":"57755",
+            "CiscoCertificationsSinceInception":"7855",
+            "geometry" : {
+                "coordinates": [31.16558, 48.379433], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Middle East",
+            "Country_State_Province":"United Arab Emirates",
+            "TotalCurrentStudentEnrollment":"2774",
+            "CurrentPercentFemaleEnrollment":"0.417808219",
+            "TotalStudentsSinceInception":"15783",
+            "CiscoCertificationsSinceInception":"2602",
+            "geometry" : {
+                "coordinates": [53.847818, 23.424076], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"UKI",
+            "Country_State_Province":"United Kingdom",
+            "TotalCurrentStudentEnrollment":"20672",
+            "CurrentPercentFemaleEnrollment":"0.092589009",
+            "TotalStudentsSinceInception":"222380",
+            "CiscoCertificationsSinceInception":"40138",
+            "geometry" : {
+                "coordinates": [-3.435973, 55.378051], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Uruguay",
+            "TotalCurrentStudentEnrollment":"153",
+            "CurrentPercentFemaleEnrollment":"0.091503268",
+            "TotalStudentsSinceInception":"1025",
+            "CiscoCertificationsSinceInception":"401",
+            "geometry" : {
+                "coordinates": [-55.765835, -32.522779], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Europe Central",
+            "Country_State_Province":"Uzbekistan",
+            "TotalCurrentStudentEnrollment":"298",
+            "CurrentPercentFemaleEnrollment":"0.060402685",
+            "TotalStudentsSinceInception":"2236",
+            "CiscoCertificationsSinceInception":"917",
+            "geometry" : {
+                "coordinates": [64.585262, 41.377491], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"Vanuatu",
+            "TotalCurrentStudentEnrollment":"7",
+            "CurrentPercentFemaleEnrollment":"0",
+            "TotalStudentsSinceInception":"10",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [166.959158, -15.376706], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"LATAM",
+            "Country_State_Province":"Venezuela",
+            "TotalCurrentStudentEnrollment":"10516",
+            "CurrentPercentFemaleEnrollment":"0.175827311",
+            "TotalStudentsSinceInception":"67983",
+            "CiscoCertificationsSinceInception":"16238",
+            "geometry" : {
+                "coordinates": [-66.58973, 6.42375], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"APJ",
+            "Country_State_Province":"Vietnam",
+            "TotalCurrentStudentEnrollment":"2843",
+            "CurrentPercentFemaleEnrollment":"0.083010904",
+            "TotalStudentsSinceInception":"31612",
+            "CiscoCertificationsSinceInception":"16361",
+            "geometry" : {
+                "coordinates": [108.277199, 14.058324], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"United States & Canada",
+            "Country_State_Province":"Virgin Islands (U.S.)",
+            "TotalCurrentStudentEnrollment":"44",
+            "CurrentPercentFemaleEnrollment":"0.159090909",
+            "TotalStudentsSinceInception":"168",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [-64.896335, 18.335765], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Western Sahara",
+            "TotalCurrentStudentEnrollment":"1",
+            "CurrentPercentFemaleEnrollment":"0",
+            "TotalStudentsSinceInception":"1",
+            "CiscoCertificationsSinceInception":"",
+            "geometry" : {
+                "coordinates": [-12.885834, 24.215527], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Middle East",
+            "Country_State_Province":"Yemen",
+            "TotalCurrentStudentEnrollment":"531",
+            "CurrentPercentFemaleEnrollment":"0.13559322",
+            "TotalStudentsSinceInception":"6786",
+            "CiscoCertificationsSinceInception":"1311",
+            "geometry" : {
+                "coordinates": [48.516388, 15.552727], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Zambia",
+            "TotalCurrentStudentEnrollment":"607",
+            "CurrentPercentFemaleEnrollment":"0.154859967",
+            "TotalStudentsSinceInception":"4362",
+            "CiscoCertificationsSinceInception":"1560",
+            "geometry" : {
+                "coordinates": [27.849332, -13.133897], 
+                "type": "Point" 
+            }
+        },
+        {
+            "Region":"Africa",
+            "Country_State_Province":"Zimbabwe",
+            "TotalCurrentStudentEnrollment":"1017",
+            "CurrentPercentFemaleEnrollment":"0.156342183",
+            "TotalStudentsSinceInception":"6566",
+            "CiscoCertificationsSinceInception":"2659",
+            "geometry" : {
+                "coordinates": [29.154857, -19.015438], 
+                "type": "Point" 
+            }
+        }
+    ]
+}

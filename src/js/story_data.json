@@ -1,0 +1,124 @@
+{
+    "story_data": [
+        {
+            "id": "wilson_nyabera",
+            "name": "Wilson Nyabera",
+            "region": "Africa",
+            "location": "Nairobi, Kenya",
+            "headline": "When obstacles obscured the door, opportunity opened the window",
+            "pullQuote": "\u301dThis is a pullquote string\u301e",
+            "body": "<p>When he was five years old, an infection caused the lining of Wilson Nyabera’s brain to swell.  Meningitis. He managed to survive, but the illness permanently robbed him of his hearing. </p><p>When you’re growing up on the streets of Kibera, one of Nairobi’s poorest neighborhoods, disabilities can carry a cultural stigma, and the hearing-impaired are often denied access to basic support and training.</p><p>But Wilson wasn’t going to give up. He had always dreamed of being an engineer, and he was ready to put in the effort it would take to get there. Throughout high school, he excelled at math and physics. His brothers helped him learn how to use basic computer programs, and, from there he pushed himself to become one of the top performing students.</p><p>When he couldn’t find services, he taught himself, spending his days reading, studying, and tinkering with any mechanical device he could get his hands on. He learned sign language, and attended a local school for the deaf.  </p><p>It was there that Wilson was introduced to Cisco Networking Academy.  </p><p>His success lead to a position at Copy Cat, where—in addition to rising through the ranks of his department—he serves as a mentor to other aspiring students and acts as a champion for fellow citizens with disabilities.</p><p>Wilson is able to support his mother, help with his younger sister’s education, and even invest in construction in his village. But it isn’t the money that drives his motivation. It’s his love of technology.</p><p>“When you love something, it excites you and you want to learn more about it. And when you learn more, you become good at it.”</p><p>Wilson continues to learn and grow, and hopes to become a collaboration engineer in the future.</p><p>“Cisco Networking Academy helped me develop skills and get the certifications I needed to become an IT expert, get a good job, and earn a promotion.”</p>",
+            "cta": "Read Wilson's story",
+            "bodyImgUrl": "@__PATHVAR__@images/profiles/wilson_nyabera_main.jpg",
+            "mapIconUrl": "@__PATHVAR__@images/profiles/wilson_nyabera_photo_icon.png",
+            "videoId": "",
+            "videoDataAcctId": "",
+            "videoPlayerId": "",
+            "videoBgImgUrl": "",
+            "geometry": {
+                "coordinates": [36.821946, -1.292066],
+                "type": "Point"
+            }
+        },
+        {
+            "id": "chiara_pietra",
+            "name": "Chiara Pietra",
+            "region": "LATAM",
+            "location": "Buenos Aires, Argentina",
+            "headline": "From theory to hands-on experience",
+            "pullQuote": "“NetAcad shows you what you can do and that you can actually do it in real life.”",
+            "body": "<p>Chiara Pietra has always been fascinated by technology. What’s inside a cell phone? Why does the Internet work? How do you build a computer program? She liked engineering, but theory seemed to be all she was learning in her university. And as graduation approached, so did the terrifying specter of reality. </p><p>Soon she’d be forced to find a real job in the real world. But how was she supposed to know what she wanted to do for the rest of her life without having ever actually put it into practice?  </p><p>Then she found one upper-division class that came highly recommended. It was a credit-conferring Cisco Networking Academy class covering the first two modules of CCNA certification.</p><p>“I took that course because it was really popular. Everyone said, ‘oh you can actually work with real equipment.’ In my degree, it was not so much practice, so it was really important to me to have that hands-on experience.”</p><p>Chiara quickly realized that she had a lot to learn, and the fact that she was only one of five women in her department didn’t make it any easier. But that didn’t worry her for long. She was too busy discovering a passion she’d never been entirely sure was the real thing. </p><p>“It was our opportunity to remove any doubts we had about a career in networking. I think that’s why it’s important, what [Cisco Networking Academy] does. I think sometimes, for women, they hear, ‘oh, that’s for men,’ and so they aren’t even interested. But NetAcad shows you what you can do and that you can actually do it in real life.” </p><p>She graduated and immediately was invited to a year-long internship at Cisco’s Research Triangle Park (RTP) North Carolina campus. It meant leaving her home, her family, and even her native language for a full year. Another risk. But this time, it was one she was ready to take.  </p><p>And it’s a good thing she did. Because the internship transitioned into a job. A real job. A job she now knew, with the certainty of experience, she’d be happy to do for the rest of her life. </p><p>“For sure, if I hadn’t taken that Net Academy course, I’d be doing something very different. Some kind of industrial engineering, probably. And that would be a shame, because I really like what I do now.” </p><p>So what’s her advice for other young women considering a career in tech? </p><p>“Don’t feel intimidated. Don’t believe it’s a man’s career. You have to be confident. There are some people who are 100% sure. But if you don’t know yet, then it might be worth just trying it. And if you do like it, know that once you get your certification, you’re really likely to get a job. And that means you get to do, every day, something you really enjoy.”</p>",
+            "cta": "Read Chiara's story",
+            "bodyImgUrl": "@__PATHVAR__@images/profiles/chiara_pietra_main.jpg",
+            "mapIconUrl": "@__PATHVAR__@images/profiles/chiara_pietra_photo_icon.png",
+            "videoId": "",
+            "videoDataAcctId": "",
+            "videoPlayerId": "",
+            "videoBgImgUrl": "",
+            "geometry": {
+                "coordinates": [-58.381559, -34.603684],
+                "type": "Point"
+            }
+        },
+        {
+            "id": "luke_munday",
+            "name": "Luke Munday",
+            "region": "APJ",
+            "location": "Melbourne, Australia",
+            "headline": "Investing in a better future for his family",
+            "pullQuote": "“I want to be challenged. It’s all an investment, all the work you put in. And…it really paid off for me. ”",
+            "body": "<p>Luke Munday never had a problem applying himself. The problem was finding the right application. </p><p>When he was young, his mother passed away after a long battle with cystic fibrosis. “I kind of just locked myself in a house for two years. Really, I didn’t put much thought into anything career-related until I started attending TAFE, a technical training institution in New South Wales, in 2014.</p><p>“I liked video games, and I’d programmed my own stuff. Like, when I was 13, I coded some chat bots for the games I was playing. But it was always on the side.” </p><p>Then life delivered some powerful motivation. </p><p>“Our first child came in 2015. So that’s obviously when I had to get my ass into gear. ” </p><p>Luke couldn’t afford to pay for the classes out of pocket—he was, after all, raising a newborn—so he took advantage of a government initiative offering free Cisco Networking Academy CCNA and CCNP certification classes. The catch: The classes were only offered in eight-hour blocks. On Saturdays. 60 kilometers away. </p><p>“To put it in perspective, it was about an hour and a half, each way. So I took 25-to-30 eight-hour Saturdays to earn my CCNA and CCNP. Pretty much the whole of 2016. It was a long year.”</p><p>He seems a little bemused that anyone would think he’d do it any other way. </p><p>“I’d always known that a CCNA would give me better opportunities and further my career goals, so dedication wasn’t a problem. It was something I really wanted and something I was passionate about. When I got the opportunity to do courses with [Cisco], that’s when things started to work out pretty well.”</p><p>Pretty well indeed. </p><p>“In 2016, I did all the courses. Then one of my instructors recommended NetRiders. It was like two weeks away, so I didn’t have much time to study. I barely scraped through the first round, and that was kind of a wake-up call. So I went into overdrive at the point.”</p><p>Once again, Luke applied his particular combination of skill, passion, and single-minded dedication. And once again, it paid dividends. </p><p>“I believe I ended up placing first in Australia and sixth in all of Asia Pacific. So that was pretty good. From there, I took one interview with the largest telecom company in Australia. I got the job offer twenty minutes after I walked out of the room.” </p><p>Luke is grateful for the opportunities Cisco Networking Academy has opened up over the years, and especially for the ability to provide for his children in a career that puts his tireless work ethic to good use.  </p><p>“[Cisco Networking Academy] made a huge difference to a lot of things. There’s a direct correlation between what you do at the networking academy and your success in the long term. The harder you work while you’re taking the courses, the better off you’re gonna be. If I hadn’t done all that studying and if I hadn’t done NetRiders, I wouldn’t be where I am today. </p><p>“I want to be challenged. It’s all an investment, all of the effort you put in, and I don’t know what else to say…It really paid off for me.” </p>",
+            "cta": "Listen to Luke's story",
+            "bodyImgUrl": "@__PATHVAR__@images/profiles/luke_munday_main.jpg",
+            "mapIconUrl": "@__PATHVAR__@images/profiles/luke_munday_photo_icon.png",
+            "videoId": "5789346993001",
+            "videoDataAcctId": "",
+            "videoPlayerId": "",
+            "videoBgImgUrl": "@__PATHVAR__@images/profiles/luke_munday_main.jpg",
+            "geometry": {
+                "coordinates": [144.963058, -37.813628],
+                "type": "Point"
+            }
+        },
+        {
+            "id": "rebecca_baca",
+            "name": "Rebecca Baca",
+            "region": "US",
+            "location": "Albuquerque, New Mexico",
+            "headline": "The long road to success",
+            "pullQuote": "“They made sure I learned the material, no matter what it took. They’d let me bring my daughter, and they always accommodated her and my schedule.”",
+            "body": "<p>On the surface, Rebecca Baca has had a straightforward career with over a decade of experience as a senior-level network engineer. But her path to getting there was anything but straightforward. </p><p>When she was young, she wanted to be a gymnast. When that didn’t work out, she decided to study physical therapy. But she soon found that college didn’t stick. Next, she tried moving from Albuquerque to the “big city”—Phoenix, Arizona. </p><p>That didn’t work out either. </p><p>“Suddenly I look up and I’m twenty-seven, a single mother with a five-year-old, living with my parents.”</p><p>Determined to support herself, she decided to apply for food stamps. It turned out to be the decision that would give her the push she needed. </p><p>“I’m not kidding, I walk out of the meeting with a five-pound bag of potatoes and family planning, because they wanted to make sure I didn’t have any more babies. I was so mad. That was the moment I was like, all right, it’s time for me to grow up. I need to support my daughter.”</p><p>Rebecca turned down her father’s offer to pay for college tuition and instead enrolled herself at a local technical school. She thought the Cisco Networking Academy program looked interesting, but she had a lot of catching up to do.  </p><p>“I had no idea what Linux was. I didn’t know Cisco was spelled any way but with an S and a Y—but I did know that Microsoft had something to do with a computer, so there’s that.” </p><p>But despite her slow start—and being 1 of only 6 women among 80 men—the material started to click. </p><p>“I was a sponge. I just loved literally everything about. And the instructors made it easy. Not just in terms of learning that material. They’d let me bring my daughter, and they always accommodated her, and my schedule, and they were just wonderful. I’ve kept in touch with all of them.” </p><p>She went on to become the only woman in her cohort to graduate, in addition to completing her CCNP and CCNA, with a high score of 938 on the exam (score scales from 300 minimum to 1,000 max).  </p><p>That earned her an internship, which she managed to convert to full-time work just 3 months later. Now she works as a senior network engineer and credits Cisco Networking Academy for helping her find her passion and giving her the means to support her daughter as she pursue her own career. </p><p>“She wants to be a dental hygienist; she’s not interested in tech at all. But that’s her dream, you know? It feels great that she has the opportunity to go do it. That’s what matters most to me, that she has that opportunity.”</p>",
+            "cta": "Read Rebecca's story",
+            "bodyImgUrl": "@__PATHVAR__@images/profiles/rebecca_baca_main.jpg",
+            "mapIconUrl": "@__PATHVAR__@images/profiles/rebecca_baca_photo_icon.png",
+            "videoId": "",
+            "videoDataAcctId": "",
+            "videoPlayerId": "",
+            "videoBgImgUrl": "",
+            "geometry": {
+                "coordinates": [-106.650422, 35.084386],
+                "type": "Point"
+            }
+        },
+        {
+            "id": "chen_liangliang",
+            "name": "Chen Liangliang",
+            "region": "APJ",
+            "location": "Zhengzhou, China",
+            "headline": "The chance to repay the past",
+            "pullQuote": "“While most people only have the chance to pay their success forward to their children, I have the chance to pay it back to my parents.”",
+            "body": "<p>Chen Liangliang was born in rural China. It was a simple, hardworking existence. There weren’t many opportunities in his town; higher education was out of reach, and many kids didn’t even dream of getting a high-paying job. </p><p>But ever since he was little, Chen had dreamed of going to a university. And he wasn’t alone. Chen’s family strived to provide a better life for him than they had for themselves, and they were ready to support his dream.</p><p>Chen had always been curious about technology. While a computer was a luxury they could not afford, he was intrigued by the ones he was able to briefly use at cafés during high school. He discovered an interest in technology and wanted to pursue it.</p><p>“When I decided to take classes at Cisco’s Networking Academy, my father worked extra jobs and even sold his van to help me to afford living in the city. He was a delivery guy, so this was a huge sacrifice, and it inspired me to do well.”</p><p>He would need that inspiration. When Chen started, his courses were only taught in English, which he didn’t speak. He used translation software to figure out his lessons, which made learning slow and difficult. But he was determined. </p><p>In 2007, Chen graduated and has been working in Zhengzhou ever since. On his day off, he travels home to be with his family. </p><p>“In a perfect world, I would always have my family by my side. But for now, I have a wonderful opportunity to provide a better life for my wife and our children. And an even greater opportunity to take care of my mother and father. To repay them for all the sacrifices they made—and then some. I’ve been able to buy them a car and a house, and that has made them so proud—especially my mother.</p><p>“While most people only get the opportunity to pay their success forward to their children, I have the chance to pay it back to my parents.”</p>",
+            "cta": "See Chen's story",
+            "bodyImgUrl": "@__PATHVAR__@images/profiles/chen_liangliang_main.jpg",
+            "mapIconUrl": "@__PATHVAR__@images/profiles/chen_liangliang_photo_icon.png",
+            "videoId": "5791605997001",
+            "videoDataAcctId": "",
+            "videoPlayerId": "",
+            "videoBgImgUrl": "@__PATHVAR__@images/profiles/chen_liangliang_main.jpg",
+            "geometry": {
+                "coordinates": [113.625328, 34.746611],
+                "type": "Point"
+            }
+        },
+        {
+            "id": "soso_luningo",
+            "name": "Soso Luningo",
+            "region": "Africa",
+            "location": "Eastern Cape, South Africa",
+            "headline": "Opportunity knocks everywhere. Even on the door of a tin hut.",
+            "pullQuote": "“When I joined the Networking Academy and I got a career working in technology, that’s when the doors started opening. That’s when I started to actually make my life better. Even my parents’ lives got better.”",
+            "body": "<p>As a child, Soso Luningo shared the dirt floor of a corrugated tin house in the Western Cape of South Africa with three siblings. When it rained, she slept in the mud. When it didn’t rain, she searched for drinking water. When she walked to school, she walked barefoot, so she wouldn’t wear out her single pair of shoes. </p><p>“The hard life prepared me for pretty much anything. Whatever this world throws at you, you can handle it, or you can just whine that you have no shoes and not go to school. There’s always a certain solution, as long as you open your mind to it.” </p><p>Perhaps most of all, Soso is insatiably curious. She always loved to learn new things and quickly absorbed lessons in school, making her an A student and the only one in her village who qualified to attend computer lessons. There she discovered her love of technology. When she was invited to a college in Johannesburg, she followed that technology passion by taking ICT academy courses. But it wasn’t easy.</p><p>“People were saying, ‘How are you going to deal with a computer? You’re a girl. How are you going to fix these things?’” </p><p>But the thing about Soso is, when you tell her she can’t, it actually pushes her to do it even more. Like going on to complete all four modules of the CCNA curriculum, graduating, and finding her first job by offering advice to a group of IT guys who were discussing a problem they faced at work.  </p><p>“I overheard them talking, and I said, ‘How about you use VLANs?’ They look at me and say, ‘What are VLANs?’ I said, ‘Just tell your boss to hire me and I’ll tell you what VLANs are.’” </p><p>She got the job—the only woman in the entire IT department—and was soon promoted. And then promoted again. </p><p>Eventually she moved on to teach at Cisco Networking Academy, where she discovered a passion for teaching and developing new talent that equals her zeal for networking. It reminds her of her family, she says. And family, without a doubt, is the fuel for Soso’s success. </p><p>“I’m hoping that my success, and what I’m doing now, translates to my children. I’m hoping they become even better than I am now. I want them to really feel that way, that they can be pretty much anything they want to be.” </p><p>With Soso as their guide, it’s difficult to imagine any other outcome. </p>",
+            "cta": "See Soso's story",
+            "bodyImgUrl": "@__PATHVAR__@images/profiles/soso_lunigo_main.jpg",
+            "mapIconUrl": "@__PATHVAR__@images/profiles/soso_lunigo_photo_icon.png",
+            "videoId": "5794579249001",
+            "videoDataAcctId": "",
+            "videoPlayerId": "",
+            "videoBgImgUrl": "@__PATHVAR__@images/profiles/soso_lunigo_main.jpg",
+            "geometry": {
+                "coordinates": [26.419389, -32.296840],
+                "type": "Point"
+            }
+        }
+    ]
+}
